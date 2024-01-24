@@ -1,7 +1,8 @@
 # sei-node-ninja-scripts
 
 ## 🥷 Plug-n-Play `bash` scripts for Sei Node Operatoooors  🥷
-![Sei Node Ninja Scripts](https://64.media.tumblr.com/bbb093099a74f4587d9d25f4ac9c9a69/08882a08181a5799-b7/s500x750/1b58053c7c8badbbedbc92cd1b321d78c5c06573.gif)
+
+![Sei Node Ninja Scripts](https://i.imgur.com/FnVVn9G.gif)
 
 ## About
 This repository contains a collection of `bash` scripts designed for Sei Node Operators
