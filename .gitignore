@@ -1,0 +1,21 @@
+# Ignore system and editor files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Ignore compiled files or logs
+*.log
+*.bak
+
+# Ignore user-specific files or settings
+.idea/
+*.iml
+.vscode/
+
+# Ignore any output files or directories
+/output/
+/output_*/
+
+# Ignore temporary or backup files
+*~
